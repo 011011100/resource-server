@@ -53,6 +53,7 @@ export default function ResourcePage() {
                 dataSource={data}
                 rowKey="id"
                 columns={[
+                    { title: "id", dataIndex: "id" },
                     { title: "资源名", dataIndex: "name" },
                     { title: "路径", dataIndex: "path" },
                     {
