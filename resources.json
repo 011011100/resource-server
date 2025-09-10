@@ -1,14 +1,338 @@
 [
   {
-    "id": "f1",
+    "id": "face1",
     "name": "脸1",
     "path": "/assets/Face/Completes/face1.png",
     "enabled": true
   },
   {
-    "id": "f2",
+    "id": "face2",
     "name": "脸2",
     "path": "/assets/Face/Completes/face2.png",
+    "enabled": true
+  },
+  {
+    "id": "face3",
+    "name": "脸3",
+    "path": "/assets/Face/Completes/face3.png",
+    "enabled": true
+  },
+  {
+    "id": "face4",
+    "name": "脸4",
+    "path": "/assets/Face/Completes/face4.png",
+    "enabled": true
+  },
+  {
+    "id": "hair1",
+    "name": "头发1",
+    "path": "/assets/Hair/Black/blackMan1.png",
+    "enabled": true
+  },
+  {
+    "id": "hair2",
+    "name": "头发2",
+    "path": "/assets/Hair/Black/blackMan2.png",
+    "enabled": true
+  },
+  {
+    "id": "hair3",
+    "name": "头发3",
+    "path": "/assets/Hair/Black/blackMan3.png",
+    "enabled": true
+  },
+  {
+    "id": "hair4",
+    "name": "头发4",
+    "path": "/assets/Hair/Black/blackMan4.png",
+    "enabled": true
+  },
+  {
+    "id": "hair5",
+    "name": "头发5",
+    "path": "/assets/Hair/Black/blackMan5.png",
+    "enabled": true
+  },
+  {
+    "id": "hair6",
+    "name": "头发6",
+    "path": "/assets/Hair/Black/blackMan6.png",
+    "enabled": true
+  },
+  {
+    "id": "hair7",
+    "name": "头发7",
+    "path": "/assets/Hair/Black/blackMan7.png",
+    "enabled": true
+  },
+  {
+    "id": "pants1",
+    "name": "裤腰1",
+    "path": "/assets/Pants/Blue 1/pantsBlue11.png",
+    "enabled": true
+  },
+  {
+    "id": "pants_l",
+    "name": "裤腿_长",
+    "path": "/assets/Pants/Blue 1/pantsBlue1_long.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_b1",
+    "name": "衣服_蓝1",
+    "path": "/assets/Shirts/Blue/blueShirt1.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_b2",
+    "name": "衣服_蓝2",
+    "path": "/assets/Shirts/Blue/blueShirt2.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_b3",
+    "name": "衣服_蓝3",
+    "path": "/assets/Shirts/Blue/blueShirt3.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_b4",
+    "name": "衣服_蓝4",
+    "path": "/assets/Shirts/Blue/blueShirt4.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_b5",
+    "name": "衣服_蓝5",
+    "path": "/assets/Shirts/Blue/blueShirt5.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_b6",
+    "name": "衣服_蓝6",
+    "path": "/assets/Shirts/Blue/blueShirt6.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_b7",
+    "name": "衣服_蓝7",
+    "path": "/assets/Shirts/Blue/blueShirt7.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_b8",
+    "name": "衣服_蓝8",
+    "path": "/assets/Shirts/Blue/blueShirt8.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_b_al",
+    "name": "衣服_蓝_长袖",
+    "path": "/assets/Shirts/Blue/blueArm_long.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_b_as",
+    "name": "衣服_蓝_短袖",
+    "path": "/assets/Shirts/Blue/blueArm_short.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_b_asr",
+    "name": "衣服_蓝_超短袖",
+    "path": "/assets/Shirts/Blue/blueArm_shorter.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_y1",
+    "name": "衣服_黄1",
+    "path": "/assets/Shirts/Yellow/blueShirt1.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_y2",
+    "name": "衣服_黄2",
+    "path": "/assets/Shirts/Yellow/blueShirt2.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_y3",
+    "name": "衣服_黄3",
+    "path": "/assets/Shirts/Yellow/blueShirt3.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_y4",
+    "name": "衣服_黄4",
+    "path": "/assets/Shirts/Yellow/blueShirt4.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_y5",
+    "name": "衣服_黄5",
+    "path": "/assets/Shirts/Yellow/blueShirt5.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_y6",
+    "name": "衣服_黄6",
+    "path": "/assets/Shirts/Yellow/blueShirt6.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_y7",
+    "name": "衣服_黄7",
+    "path": "/assets/Shirts/Yellow/blueShirt7.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_y8",
+    "name": "衣服_黄8",
+    "path": "/assets/Shirts/Yellow/blueShirt8.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_y_al",
+    "name": "衣服_黄_长袖",
+    "path": "/assets/Shirts/Yellow/blueArm_long.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_y_as",
+    "name": "衣服_黄_短袖",
+    "path": "/assets/Shirts/Yellow/blueArm_short.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_y_asr",
+    "name": "衣服_黄_超短袖",
+    "path": "/assets/Shirts/Yellow/blueArm_shorter.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_r1",
+    "name": "衣服_红1",
+    "path": "/assets/Shirts/Red/blueShirt1.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_r2",
+    "name": "衣服_红2",
+    "path": "/assets/Shirts/Red/blueShirt2.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_r3",
+    "name": "衣服_红3",
+    "path": "/assets/Shirts/Red/blueShirt3.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_r4",
+    "name": "衣服_红4",
+    "path": "/assets/Shirts/Red/blueShirt4.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_r5",
+    "name": "衣服_红5",
+    "path": "/assets/Shirts/Red/blueShirt5.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_r6",
+    "name": "衣服_红6",
+    "path": "/assets/Shirts/Red/blueShirt6.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_r7",
+    "name": "衣服_红7",
+    "path": "/assets/Shirts/Red/blueShirt7.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_r8",
+    "name": "衣服_红8",
+    "path": "/assets/Shirts/Red/blueShirt8.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_r_al",
+    "name": "衣服_红_长袖",
+    "path": "/assets/Shirts/Red/blueArm_long.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_r_as",
+    "name": "衣服_红_短袖",
+    "path": "/assets/Shirts/Red/blueArm_short.png",
+    "enabled": true
+  },
+  {
+    "id": "shirt_r_asr",
+    "name": "衣服_红_超短袖",
+    "path": "/assets/Shirts/Red/blueArm_shorter.png",
+    "enabled": true
+  },
+  {
+    "id": "shoes1",
+    "name": "鞋子1",
+    "path": "/assets/Shoes/Black/blackShoe1.png",
+    "enabled": true
+  },
+  {
+    "id": "shoes2",
+    "name": "鞋子2",
+    "path": "/assets/Shoes/Black/blackShoe2.png",
+    "enabled": true
+  },
+  {
+    "id": "shoes3",
+    "name": "鞋子3",
+    "path": "/assets/Shoes/Black/blackShoe3.png",
+    "enabled": true
+  },
+  {
+    "id": "shoes4",
+    "name": "鞋子4",
+    "path": "/assets/Shoes/Black/blackShoe4.png",
+    "enabled": true
+  },
+  {
+    "id": "shoes5",
+    "name": "鞋子5",
+    "path": "/assets/Shoes/Black/blackShoe5.png",
+    "enabled": true
+  },
+  {
+    "id": "skin_arm",
+    "name": "皮肤_手臂",
+    "path": "/assets/Skin/Tint 1/tint1_arm.png",
+    "enabled": true
+  },
+  {
+    "id": "skin_hand",
+    "name": "皮肤_手",
+    "path": "/assets/Skin/Tint 1/tint1_hand.png",
+    "enabled": true
+  },
+  {
+    "id": "skin_head",
+    "name": "皮肤_头",
+    "path": "/assets/Skin/Tint 1/tint1_head.png",
+    "enabled": true
+  },
+  {
+    "id": "skin_leg",
+    "name": "皮肤_腿",
+    "path": "/assets/Skin/Tint 1/tint1_leg.png",
+    "enabled": true
+  },
+  {
+    "id": "skin_neck",
+    "name": "皮肤_脖子",
+    "path": "/assets/Skin/Tint 1/tint1_neck.png",
     "enabled": true
   }
 ]
