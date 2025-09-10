@@ -1,0 +1,14 @@
+[
+  {
+    "id": "f1",
+    "name": "脸1",
+    "path": "/assets/Face/Completes/face1.png",
+    "enabled": true
+  },
+  {
+    "id": "f2",
+    "name": "脸2",
+    "path": "/assets/Face/Completes/face2.png",
+    "enabled": true
+  }
+]
