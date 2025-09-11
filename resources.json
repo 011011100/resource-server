@@ -334,5 +334,23 @@
     "name": "皮肤_脖子",
     "path": "/assets/Skin/Tint 1/tint1_neck.png",
     "enabled": true
+  },
+  {
+    "id": "background1",
+    "name": "背景1",
+    "path": "/assets/Background/Tavern.jpg",
+    "enabled": true
+  },
+  {
+    "id": "background2",
+    "name": "背景2",
+    "path": "/assets/Background/Tavern_Outside.jpeg",
+    "enabled": true
+  },
+  {
+    "id": "background3",
+    "name": "背景3",
+    "path": "/assets/Background/Wasteland.jpg",
+    "enabled": true
   }
 ]
